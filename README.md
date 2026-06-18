@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Lara Praneeth 👋
 
-<!--
-**Larapraneeth/Larapraneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student at IIIT Surat
 
-Here are some ideas to get you started:
+Interested in:
+- Agentic AI
+- LLM Applications
+- RAG Systems
+- Deep Learning
+- Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+🚀 TRIO-AgenticAI
+Local Multi-Agent AI Operating System built with FastAPI, React and Ollama.
+
+🧠 CNN vs G-CNN Research
+Comparative study on robustness to rotations and reflections.
+
+🌍 Multilingual Translator
+mBART-50 based multilingual translation system.
+
+📚 DevDocs RAG
+Documentation assistant powered by vector search and LLMs.
