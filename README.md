@@ -76,13 +76,7 @@ Retrieval-Augmented Generation system for contextual question answering over tec
 
 ---
 
-## 📊 GitHub Stats
 
-![Lara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Larapraneeth\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Larapraneeth\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
