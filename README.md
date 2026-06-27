@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<table align="center" width="100%"> <tr> <td width="120">🔭&nbsp;<b>Building</b></td> <td><b>TRIO</b> — a local, voice-driven Multi-Agent AI Operating System</td> </tr> <tr> <td>🧪&nbsp;<b>Research</b></td> <td>Group Equivariant CNNs (D8 dihedral symmetry) for robust visual recognition</td> </tr> <tr> <td>🎯&nbsp;<b>Focus</b></td> <td>Multi-agent systems · RAG · contract-first engineering</td> </tr> <tr> <td>⚡&nbsp;<b>Stack</b></td> <td>
+<table align="center" width="100%"> <tr> <td width="120">🔭&nbsp;<b>Building</b></td> <td> </tr> <tr> <td>🧪&nbsp;<b>Research</b></td> <td>Group Equivariant CNNs (D8 dihedral symmetry) for robust visual recognition</td> </tr> <tr> <td>🎯&nbsp;<b>Focus</b></td> <td>Multi-agent systems · RAG · contract-first engineering</td> </tr> <tr> <td>⚡&nbsp;<b>Stack</b></td> <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
