@@ -1,42 +1,45 @@
 <div align="center">
 
 <!-- ===== Animated Waving Header ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:1A4D8F,75:6E57E0,100:2C5364&height=230&section=header&text=Lara%20Praneeth%20Kondeti&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20AI%20Builder%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:1A4D8F,75:6E57E0,100:2C5364&height=240&section=header&text=LARA.OS&fontSize=72&fontColor=ffffff&animation=scaleIn&fontAlignY=34&desc=booting%20up%20Lara%20Praneeth%20Kondeti%20...&descAlignY=56&descSize=20" />
 
-<!-- ===== Typing Tagline ===== -->
-<a href="https://github.com/Larapraneeth">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=6E57E0&center=true&vCenter=true&width=740&lines=Building+intelligent+systems+%E2%9A%A1;Multi-Agent+AI+%7C+LLM+Apps+%7C+Deep+Learning;Local-first+%7C+Voice+AI+%7C+Browser+Automation;Bridging+research+and+real-world+products" alt="Typing SVG" />
-</a>
+<!-- ===== Visitor-POV Story Typing ===== -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=700&color=6E57E0&center=true&vCenter=true&width=820&lines=%3E+visitor+detected...+running+identity+scan;%3E+recruiter%3F+loading+candidate+%E2%80%94+99%25+match+%E2%9C%A8;%3E+fellow+builder%3F+let's+ship+something+wild;%3E+lost+wanderer%3F+welcome+to+LARA.OS;%3E+an+AI+reading+an+AI+builder%3F+meta.+enjoy+the+tour" alt="Visitor story typing" />
 
 <br/>
 
-![IIIT Surat](https://img.shields.io/badge/Final%20Year-IIIT%20Surat-6E57E0?style=for-the-badge)
-![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-36BCF7?style=for-the-badge)
+![IIIT Surat](https://img.shields.io/badge/kernel-IIIT%20Surat-6E57E0?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-always%20shipping-36BCF7?style=for-the-badge)
+![Mode](https://img.shields.io/badge/mode-agentic%20AI-00B4AB?style=for-the-badge)
 
 </div>
 
 <br/>
 
-## 🌟 About Me
+## 🧬 whoami
 
-```python
-class LaraPraneeth:
-    def __init__(self):
-        self.role        = "AI Engineer & Full Stack Developer"
-        self.education   = "B.Tech CSE @ IIIT Surat (Final Year)"
-        self.research    = "Equivariant Deep Learning (G-CNNs / D8 symmetry)"
-        self.focus       = ["Agentic AI", "Multi-Agent Systems", "LLM Apps", "RAG"]
-        self.stack       = ["Python", "C++", "React", "FastAPI", "AWS", "Azure"]
-        self.philosophy  = "Build systems that bridge research and real-world impact"
+> *You didn't just open a README. You booted a system.*
+> Somewhere between a research lab and a terminal, a final-year CS student decided that AI shouldn't just answer — it should **act**. So she started building minds made of many agents. This is her root directory.
 
-    def currently_building(self):
-        return "TRIO — a local, voice-driven Multi-Agent AI Operating System"
+```bash
+visitor@github:~$ whoami --target lara
+
+  lara@LARA.OS  ─────────────────────────────────────
+   ▸ role       : AI Engineer · Agentic AI Builder · Full Stack Dev
+   ▸ kernel      : B.Tech CSE @ IIIT Surat  (final year)
+   ▸ research    : Group Equivariant CNNs — D8 symmetry, zero pretrained weights
+   ▸ building     : TRIO — a local, voice-driven Multi-Agent AI Operating System
+   ▸ stack       : Python · C++ · React · FastAPI · AWS · Azure
+   ▸ obsessions   : multi-agent systems · RAG · contract-first engineering
+   ▸ mission     : turn research into things real people actually use
+   ▸ uptime      : caffeine-powered // 404: off-switch not found
 ```
 
-- 🎓 Final-year **B.Tech Computer Science** student at **IIIT Surat**
-- 🧠 Research in **Group Equivariant CNNs** (rotation &amp; reflection robustness)
-- ⚡ Building **agentic AI systems** — voice, memory, browser automation, multi-agent routing
-- 🔬 Into **contract-first engineering**, **RAG**, and **human-centered AI**
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=currently+teaching+machines+to+see+the+world+symmetrically;currently+wiring+voice%2C+memory+and+agents+into+one+OS;currently+making+APIs+that+refuse+to+break" alt="Currently building typing" />
+
+</div>
 
 <br/>
 
@@ -183,8 +186,7 @@ A **real-time audio classification system** detecting distress screams for safet
 
 <br/><br/>
 
-<!-- ===== Animated Closing Typing ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E57E0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Let's+build+the+future+with+Agentic+AI" alt="Closing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E57E0&center=true&vCenter=true&width=640&lines=session+ending...+thanks+for+visiting+%E2%9C%A8;LARA.OS+%E2%80%94+building+the+future+with+agentic+AI" alt="Closing typing" />
 
 <!-- ===== Animated Waving Footer ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,25:6E57E0,60:1A4D8F,100:0F2027&height=140&section=footer" />
