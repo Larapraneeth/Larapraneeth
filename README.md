@@ -39,11 +39,7 @@ Final-year Computer Science student at **IIIT Surat**, building intelligent syst
 </p>
 
 <p align="center">
-  <b>Live demos</b> &nbsp;·&nbsp;
-  <a href="https://chatapp-gray-eight.vercel.app">Chat App</a> &nbsp;·&nbsp;
-  <a href="https://sehari-event-management.vercel.app">Sehari Event Management</a> &nbsp;·&nbsp;
-  <a href="https://to-do-app-rouge-six-16.vercel.app">To-Do App</a>
-</p>
+  
 
 <br/>
 
