@@ -1,106 +1,110 @@
-# Lara Praneeth Kondeti
-
-```{=html}
+<!-- ===== Custom Animated Hero ===== -->
 <p align="center">
-```
-`<img width="100%" src="./assets/Header.svg" alt="Lara Praneeth Kondeti — AI Engineer · Agentic AI Builder · Full Stack Developer" />`{=html}
-```{=html}
+  <img width="100%" src="./assets/Header.svg" alt="Lara Praneeth Kondeti — AI Engineer · Agentic AI Builder · Full Stack Developer" />
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://www.linkedin.com/in/lara-praneeth-kondeti-974b6b255/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/Larapraneeth">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://leetcode.com/u/Lara_04/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://dev.to/larapraneeth/">`{=html}`<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
-::: {align="center"}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A8A,70:6366F1,100:0EA5E9&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=52"/>`{=html}
-:::
 
-```{=html}
+<p align="center">
+  <a href="https://www.linkedin.com/in/lara-praneeth-kondeti-974b6b255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Larapraneeth"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://dev.to/"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+</p>
+
+<br/>
+
+<!-- ===== Animated gradient banner (the "changing background") ===== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E3A8A,70:6366F1,100:0EA5E9&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=52" />
+</div>
+
 <table align="center">
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td width="180" align="center">
-```
-`<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-### Hi, I'm Lara 👋
+  <tr>
+    <td align="center" width="180">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="coding" />
+    </td>
+    <td>
 
-Computer Science graduate passionate about **Agentic AI, LLMs,
-Multi-Agent Systems, RAG, Full-Stack Development, and Deep Learning**. I
-enjoy building production-ready AI systems that solve real-world
-problems.
+> ### Hi, I'm **Lara** 👋
+> Final-year Computer Science student at **IIIT Surat**, turning research into products people actually use. I build intelligent systems that blend **agentic AI**, automation, and real-world problem solving — from **equivariant deep learning** research to production-grade LLM applications, voice interfaces, and multi-agent architectures.
 
--   🔭 Building **TRIO** -- Local Voice-Driven Multi-Agent AI OS
--   🧪 Researching **Group Equivariant CNNs**
--   🎯 Interested in **AI Agents, RAG, Contract Testing & Automation**
--   ⚡ Stack: Python • JavaScript • React • FastAPI • Node.js • MongoDB
-    • Docker
-
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  </td>
+  </tr>
 </table>
-```
 
-------------------------------------------------------------------------
+<table align="center" width="100%">
+  <tr>
+    <td width="120">🔭&nbsp;<b>Building</b></td>
+    <td><b>TRIO</b> — a local, voice-driven Multi-Agent AI Operating System</td>
+  </tr>
+  <tr>
+    <td>🧪&nbsp;<b>Research</b></td>
+    <td>Group Equivariant CNNs (D8 dihedral symmetry) for robust visual recognition</td>
+  </tr>
+  <tr>
+    <td>🎯&nbsp;<b>Focus</b></td>
+    <td>Multi-agent systems · RAG · contract-first engineering</td>
+  </tr>
+  <tr>
+    <td>⚡&nbsp;<b>Stack</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-## 🚀 Featured Projects
+<br/>
 
--   **TRIO-AgenticAI** -- https://github.com/Larapraneeth/TRIO-AgenticAI
--   **TRIO Specmatic** -- https://github.com/Larapraneeth/TRio_specmatic
--   **Voice Interview Agent** --
-    https://github.com/Larapraneeth/Voice-Interview-Agent
--   **Empathy Engine** -- https://github.com/Larapraneeth/Empathy-Engine
--   **AI Document Analyzer** --
-    https://github.com/Larapraneeth/AI_DOCUMENT_ANALYZER
--   **Hazardous Scream Detection** --
-    https://github.com/Larapraneeth/Hazardous-scream-detection-system
--   **Multilingual NLP (MBART)** --
-    https://github.com/Larapraneeth/Multilingual-NLP-MBART
-
-### 🌐 Live Projects
-
--   Chat App --- https://chatapp-gray-eight.vercel.app
--   Sehari Event Management ---
-    https://sehari-event-management.vercel.app
--   To-Do App --- https://to-do-app-rouge-six-16.vercel.app
-
-```{=html}
+<!-- ===== Custom Animated Projects ===== -->
 <p align="center">
-```
-`<img width="100%" src="./assets/Techstack.svg" alt="Tech Stack"/>`{=html}
-```{=html}
+  <img width="100%" src="./assets/Projects.svg" alt="Featured Projects" />
 </p>
-```
-::: {align="center"}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,30:6366F1,70:1E3A8A,100:0F172A&height=70&section=header&text=Let's%20Connect&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=52"/>`{=html}
 
-*Open to AI Engineering, Full-Stack, and Research opportunities.*
+<p align="center">
+  <a href="https://github.com/Larapraneeth/TRIO-AgenticAI">TRIO</a> ·
+  <a href="https://github.com/Larapraneeth/TRio_specmatic">Specmatic</a> ·
+  <a href="https://github.com/Larapraneeth/Voice-Interview-Agent">Voice Interview Agent</a> ·
+  <a href="https://github.com/Larapraneeth/Empathy-Engine">Empathy Engine</a> ·
+  <a href="https://github.com/Larapraneeth/AI_DOCUMENT_ANALYZER">AI Document Analyzer</a> ·
+  <a href="https://github.com/Larapraneeth/Hazardous-scream-detection-system">Scream Detection</a> ·
+  <a href="https://github.com/Larapraneeth/Multilingual-NLP-MBART">Multilingual NLP</a>
+</p>
 
-`<br/>`{=html}
+<p align="center">
+  <b>Live demos</b> &nbsp;·&nbsp;
+  <a href="https://chatapp-gray-eight.vercel.app">Chat App</a> &nbsp;·&nbsp;
+  <a href="https://sehari-event-management.vercel.app">Sehari Event Management</a> &nbsp;·&nbsp;
+  <a href="https://to-do-app-rouge-six-16.vercel.app">To-Do App</a>
+</p>
 
-`<a href="https://www.linkedin.com/in/lara-praneeth-kondeti-974b6b255/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/Larapraneeth">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://leetcode.com/u/Lara_04/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://dev.to/larapraneeth/">`{=html}`<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>`{=html}`</a>`{=html}
-:::
+<br/>
 
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:1E3A8A,100:0F172A&height=140&section=footer"/>`{=html}
+<!-- ===== Custom Animated Tech Stack ===== -->
+<p align="center">
+  <img width="100%" src="./assets/Techstack.svg" alt="Tech Stack" />
+</p>
+
+<br/>
+
+<!-- ===== Animated gradient banner ===== -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,30:6366F1,70:1E3A8A,100:0F172A&height=70&section=header&text=Let's%20Connect&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=52" />
+
+<br/>
+
+<i>Open to internships, research collaborations, and building things that ship.</i>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/lara-praneeth-kondeti-974b6b255/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Larapraneeth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://dev.to/"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:1E3A8A,100:0F172A&height=140&section=footer" />
