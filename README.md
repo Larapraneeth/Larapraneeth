@@ -12,7 +12,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Larapraneeth&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Final%20Year-IIIT%20Surat-blueviolet?style=for-the-badge" alt="IIIT Surat" />
-  <img src="https://img.shields.io/badge/LeetCode-Top%200.6%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+ 
 </p>
 
 </div>
@@ -36,9 +36,9 @@ class LaraPraneeth:
 ```
 
 - 🎓 Final-year **B.Tech Computer Science** student at **IIIT Surat**
-- 🧠 Research in **Group Equivariant CNNs** under Dr. Pradeep Singh
+- 🧠 Research in **Group Equivariant CNNs** 
 - ⚡ Building **agentic AI systems** — voice, memory, browser automation, multi-agent routing
-- 🏆 Competitive programmer — **top ~0.6% globally on LeetCode**
+  
 - 🔬 Into **contract-first engineering**, **RAG**, and **human-centered AI**
 
 ---
