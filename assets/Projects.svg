@@ -1,0 +1,102 @@
+<svg width="100%" viewBox="0 0 1200 470" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Featured projects">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#111A2E"/></linearGradient>
+    <linearGradient id="pacc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
+  </defs>
+  <rect width="1200" height="470" rx="20" fill="url(#pbg)"/>
+  <text x="40" y="52" font-family="'Segoe UI',Roboto,Arial,sans-serif" font-size="26" font-weight="700" fill="#F1F5F9">Featured Projects</text>
+  <line x1="42" y1="66" x2="262" y2="66" stroke="url(#pacc)" stroke-width="3" stroke-linecap="round" stroke-dasharray="220" stroke-dashoffset="220"><animate attributeName="stroke-dashoffset" values="220;0" dur="1.2s" fill="freeze"/></line>
+
+  <g font-family="'Segoe UI',Roboto,Arial,sans-serif">
+    <!-- Card template repeated; each card: outer opacity stagger + inner slide -->
+    <!-- Row 1 -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.2s" dur="0.5s" fill="freeze"/>
+      <g transform="translate(40,90)"><animateTransform attributeName="transform" type="translate" from="40,102" to="40,90" begin="0.2s" dur="0.5s" fill="freeze"/>
+        <rect width="262" height="160" rx="14" fill="#0F1A2E" stroke="#1E293B"/>
+        <rect x="0" y="0" width="262" height="4" rx="2" fill="#22D3EE"/>
+        <circle cx="238" cy="28" r="5" fill="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+        <text x="20" y="56" font-size="18" font-weight="600" fill="#F1F5F9">TRIO — Agentic AI</text>
+        <text x="20" y="86" font-size="13" fill="#94A3B8" width="220">Local Multi-Agent AI Operating</text>
+        <text x="20" y="104" font-size="13" fill="#94A3B8">System with voice &amp; automation</text>
+        <text x="20" y="138" font-size="12.5" font-weight="500" fill="#67E8F9">FastAPI · React · Ollama</text>
+      </g></g>
+
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.32s" dur="0.5s" fill="freeze"/>
+      <g transform="translate(326,90)"><animateTransform attributeName="transform" type="translate" from="326,102" to="326,90" begin="0.32s" dur="0.5s" fill="freeze"/>
+        <rect width="262" height="160" rx="14" fill="#0F1A2E" stroke="#1E293B"/>
+        <rect width="262" height="4" rx="2" fill="#3B82F6"/>
+        <circle cx="238" cy="28" r="5" fill="#3B82F6"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.7s" repeatCount="indefinite"/></circle>
+        <text x="20" y="56" font-size="18" font-weight="600" fill="#F1F5F9">TRIO Specmatic</text>
+        <text x="20" y="86" font-size="13" fill="#94A3B8">OpenAPI contract testing &amp;</text>
+        <text x="20" y="104" font-size="13" fill="#94A3B8">API mocking for reliability</text>
+        <text x="20" y="138" font-size="12.5" font-weight="500" fill="#93C5FD">Specmatic · OpenAPI · CI/CD</text>
+      </g></g>
+
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.44s" dur="0.5s" fill="freeze"/>
+      <g transform="translate(612,90)"><animateTransform attributeName="transform" type="translate" from="612,102" to="612,90" begin="0.44s" dur="0.5s" fill="freeze"/>
+        <rect width="262" height="160" rx="14" fill="#0F1A2E" stroke="#1E293B"/>
+        <rect width="262" height="4" rx="2" fill="#6366F1"/>
+        <circle cx="238" cy="28" r="5" fill="#6366F1"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.3s" repeatCount="indefinite"/></circle>
+        <text x="20" y="56" font-size="18" font-weight="600" fill="#F1F5F9">Voice Interview Agent</text>
+        <text x="20" y="86" font-size="13" fill="#94A3B8">Conducts &amp; evaluates technical</text>
+        <text x="20" y="104" font-size="13" fill="#94A3B8">interviews via spoken dialogue</text>
+        <text x="20" y="138" font-size="12.5" font-weight="500" fill="#A5B4FC">Python · Voice AI · LLM</text>
+      </g></g>
+
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.56s" dur="0.5s" fill="freeze"/>
+      <g transform="translate(898,90)"><animateTransform attributeName="transform" type="translate" from="898,102" to="898,90" begin="0.56s" dur="0.5s" fill="freeze"/>
+        <rect width="262" height="160" rx="14" fill="#0F1A2E" stroke="#1E293B"/>
+        <rect width="262" height="4" rx="2" fill="#38BDF8"/>
+        <circle cx="238" cy="28" r="5" fill="#38BDF8"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.9s" repeatCount="indefinite"/></circle>
+        <text x="20" y="56" font-size="18" font-weight="600" fill="#F1F5F9">Empathy Engine</text>
+        <text x="20" y="86" font-size="13" fill="#94A3B8">Emotion-aware TTS built on</text>
+        <text x="20" y="104" font-size="13" fill="#94A3B8">free, fully local tooling</text>
+        <text x="20" y="138" font-size="12.5" font-weight="500" fill="#7DD3FC">Coqui TTS · HuggingFace</text>
+      </g></g>
+
+    <!-- Row 2 -->
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.68s" dur="0.5s" fill="freeze"/>
+      <g transform="translate(40,270)"><animateTransform attributeName="transform" type="translate" from="40,282" to="40,270" begin="0.68s" dur="0.5s" fill="freeze"/>
+        <rect width="262" height="160" rx="14" fill="#0F1A2E" stroke="#1E293B"/>
+        <rect width="262" height="4" rx="2" fill="#22D3EE"/>
+        <circle cx="238" cy="28" r="5" fill="#22D3EE"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.5s" repeatCount="indefinite"/></circle>
+        <text x="20" y="56" font-size="18" font-weight="600" fill="#F1F5F9">AI Document Analyzer</text>
+        <text x="20" y="86" font-size="13" fill="#94A3B8">Extracts insights &amp; generates</text>
+        <text x="20" y="104" font-size="13" fill="#94A3B8">structured financial PDF reports</text>
+        <text x="20" y="138" font-size="12.5" font-weight="500" fill="#67E8F9">Gemini · ReportLab · RAG</text>
+      </g></g>
+
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.8s" dur="0.5s" fill="freeze"/>
+      <g transform="translate(326,270)"><animateTransform attributeName="transform" type="translate" from="326,282" to="326,270" begin="0.8s" dur="0.5s" fill="freeze"/>
+        <rect width="262" height="160" rx="14" fill="#0F1A2E" stroke="#1E293B"/>
+        <rect width="262" height="4" rx="2" fill="#3B82F6"/>
+        <circle cx="238" cy="28" r="5" fill="#3B82F6"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/></circle>
+        <text x="20" y="56" font-size="18" font-weight="600" fill="#F1F5F9">CNN vs G-CNN Research</text>
+        <text x="20" y="86" font-size="13" fill="#94A3B8">Robustness study under D8</text>
+        <text x="20" y="104" font-size="13" fill="#94A3B8">rotation &amp; reflection symmetry</text>
+        <text x="20" y="138" font-size="12.5" font-weight="500" fill="#93C5FD">PyTorch · G-CNN · Research</text>
+      </g></g>
+
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="0.92s" dur="0.5s" fill="freeze"/>
+      <g transform="translate(612,270)"><animateTransform attributeName="transform" type="translate" from="612,282" to="612,270" begin="0.92s" dur="0.5s" fill="freeze"/>
+        <rect width="262" height="160" rx="14" fill="#0F1A2E" stroke="#1E293B"/>
+        <rect width="262" height="4" rx="2" fill="#6366F1"/>
+        <circle cx="238" cy="28" r="5" fill="#6366F1"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" repeatCount="indefinite"/></circle>
+        <text x="20" y="56" font-size="18" font-weight="600" fill="#F1F5F9">Scream Detection</text>
+        <text x="20" y="86" font-size="13" fill="#94A3B8">Real-time audio classifier for</text>
+        <text x="20" y="104" font-size="13" fill="#94A3B8">distress &amp; emergency response</text>
+        <text x="20" y="138" font-size="12.5" font-weight="500" fill="#A5B4FC">Audio ML · Deep Learning</text>
+      </g></g>
+
+    <g opacity="0"><animate attributeName="opacity" values="0;1" begin="1.04s" dur="0.5s" fill="freeze"/>
+      <g transform="translate(898,270)"><animateTransform attributeName="transform" type="translate" from="898,282" to="898,270" begin="1.04s" dur="0.5s" fill="freeze"/>
+        <rect width="262" height="160" rx="14" fill="#0F1A2E" stroke="#1E293B"/>
+        <rect width="262" height="4" rx="2" fill="#38BDF8"/>
+        <circle cx="238" cy="28" r="5" fill="#38BDF8"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></circle>
+        <text x="20" y="56" font-size="18" font-weight="600" fill="#F1F5F9">Multilingual NLP</text>
+        <text x="20" y="86" font-size="13" fill="#94A3B8">mBART machine translation for</text>
+        <text x="20" y="104" font-size="13" fill="#94A3B8">cross-language understanding</text>
+        <text x="20" y="138" font-size="12.5" font-weight="500" fill="#7DD3FC">mBART · Transformers · NLP</text>
+      </g></g>
+  </g>
+</svg>
