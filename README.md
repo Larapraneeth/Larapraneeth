@@ -33,10 +33,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="120">🔭&nbsp;<b>Building</b></td>
-    <td><b>TRIO</b> — a local, voice-driven Multi-Agent AI Operating System</td>
-  </tr>
-  <tr>
+   
     <td>🧪&nbsp;<b>Research</b></td>
     <td>Group Equivariant CNNs (D8 dihedral symmetry) for robust visual recognition</td>
   </tr>
