@@ -96,7 +96,7 @@
 
 <br/>
 
-<i>Open to internships, research collaborations, and building things that ship.</i>
+<i>🚀 Open to Full-Time and Internship opportunities in Software Engineering, AI Engineering, Machine Learning, Generative AI, and Full-Stack Development. Also interested in research collaborations, open-source contributions, and building impactful products with ambitious teams.</i>
 
 <br/><br/>
 
