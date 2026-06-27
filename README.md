@@ -1,6 +1,6 @@
 <!-- ===== Custom Animated Hero ===== -->
 <p align="center">
-  <img width="100%" src="./assets/header.svg" alt="Lara Praneeth Kondeti — AI Engineer · Agentic AI Builder · Full Stack Developer" />
+  <img width="100%" src="./assets/Header.svg" alt="Lara Praneeth Kondeti — AI Engineer · Agentic AI Builder · Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Final-year Computer Science student at **IIIT Surat**, building intelligent syst
 
 <!-- ===== Custom Animated Projects ===== -->
 <p align="center">
-  <img width="100%" src="./assets/projects.svg" alt="Featured Projects" />
+  <img width="100%" src="./assets/Projects.svg" alt="Featured Projects" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Final-year Computer Science student at **IIIT Surat**, building intelligent syst
 
 <!-- ===== Custom Animated Tech Stack ===== -->
 <p align="center">
-  <img width="100%" src="./assets/techstack.svg" alt="Tech Stack" />
+  <img width="100%" src="./assets/Techstack.svg" alt="Tech Stack" />
 </p>
 
 <br/>
