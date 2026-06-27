@@ -177,12 +177,6 @@ A **real-time audio classification system** detecting distress screams for safet
 
 ---
 
-<!-- ===== Snake Animation (needs the workflow below) ===== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Larapraneeth/Larapraneeth/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
 
 ### ✨ Building the Future with Agentic AI ✨
 
