@@ -113,7 +113,7 @@ A multilingual machine translation system powered by mBART for cross-language un
 
 <div align="center">
 
-**Live demos** &nbsp;·&nbsp; [Chat App](https://chatapp-gray-eight.vercel.app) &nbsp;·&nbsp; [Sehari Event Management](https://sehari-event-management.vercel.app) &nbsp;·&nbsp; [To-Do App](https://to-do-app-rouge-six-16.vercel.app)
+
 
 <br/><br/>
 
